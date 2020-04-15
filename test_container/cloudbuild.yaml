@@ -1,0 +1,3 @@
+steps:
+  - id: "(#) testando container"
+    name: "gcr.io/$PROJECT_ID/go_ci_test:latest"
