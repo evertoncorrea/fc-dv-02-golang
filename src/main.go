@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	a := soma.Soma(4, 11)
+	a := soma.Soma(1, 2)
 	fmt.Printf("%v\n", a)
 }
